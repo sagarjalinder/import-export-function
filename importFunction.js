@@ -1,0 +1,1 @@
+const fnValue = require("./exportFunction");
